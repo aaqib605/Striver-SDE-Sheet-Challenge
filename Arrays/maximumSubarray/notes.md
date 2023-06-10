@@ -1,6 +1,6 @@
 # Problem: Maximum Subarray
 
-## Problem link(s)
+## Problem link
 
 - [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 

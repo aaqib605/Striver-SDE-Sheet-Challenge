@@ -1,6 +1,6 @@
 # Problem: Next Permutation
 
-## Problem link(s)
+## Problem link
 
 - [Next Permutation](https://leetcode.com/problems/next-permutation/)
 

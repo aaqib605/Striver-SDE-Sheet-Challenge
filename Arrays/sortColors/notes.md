@@ -4,7 +4,7 @@
 
 Given an array `nums` containing only 0s, 1s, and 2s, sort the array in-place so that the numbers are arranged in ascending order.
 
-## Problem Link(s)
+## Problem Link
 
 - [Sort Colors](https://leetcode.com/problems/sort-colors/)
 

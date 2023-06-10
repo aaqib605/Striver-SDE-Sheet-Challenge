@@ -1,6 +1,6 @@
 # Problem: Pascal's Triangle
 
-## Problem link(s)
+## Problem link
 
 - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 

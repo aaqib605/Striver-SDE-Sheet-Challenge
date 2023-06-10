@@ -1,6 +1,6 @@
 # Problem: Rotate Image
 
-## Problem Link(s)
+## Problem Link
 
 - [Rotate Image](https://leetcode.com/problems/rotate-image/)
 

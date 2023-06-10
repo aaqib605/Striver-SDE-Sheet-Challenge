@@ -4,7 +4,7 @@
 
 Given an array `prices` where `prices[i]` represents the price of a stock on day `i`, find the maximum profit that can be achieved. You may complete at most one transaction (i.e., buy one and sell one share of the stock), and you cannot sell a stock before you buy one.
 
-## Problem Link(s)
+## Problem Link
 
 - [Buy Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 
